@@ -1,0 +1,7 @@
+interface:
+  display_name: "Figma Text Overflow Guard"
+  short_description: "安全检查并修复 Figma 文字超限与多语言风险"
+  default_prompt: "Use $figma-text-overflow-guard to audit the selected Figma design for text overflow without modifying the original."
+
+policy:
+  allow_implicit_invocation: true
